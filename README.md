@@ -6,9 +6,13 @@ https://www.youtube.com/watch?v=-jcf1Qq8A-4&t=3s
 It´s a basic project that using a single model named User implements helps to implement and practice:
 
 1-Entity Framework Core with Code First
+
 2-Web API
+
 3-Repository pattern
+
 4-Unit of work pattern
+
 
 ENDPOINTS 
 
